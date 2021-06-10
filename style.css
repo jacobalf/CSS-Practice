@@ -74,6 +74,11 @@ a:hover {
   padding: 50px 0 20px;
 }
 
+.profile-pic {
+  width: 500px;
+  height: 500px;
+}
+
 .pro {
   text-decoration: underline;
 }
